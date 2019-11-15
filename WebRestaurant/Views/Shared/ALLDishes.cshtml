@@ -1,0 +1,10 @@
+﻿@model Dishes
+
+<div class="col-lg-4">
+    <img class="img-thumbnail" src="@Model.img" alt="@Model.dishName" />
+    <h2>@Model.dishName</h2>
+    <p>@Model.longDesc</p>
+    <p>Цена: @Model.price</p>
+    <p><a class="btn btn-warning" href="#">Добавить в корзина</a></p>
+
+</div>

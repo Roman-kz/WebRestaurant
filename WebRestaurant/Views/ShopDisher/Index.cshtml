@@ -1,0 +1,19 @@
+﻿@model ShopDisherViewModel
+
+<div class="container">
+    @foreach (var el in Model.shopDisher.ListshopCartltems){
+        <div class="alert alert_warning mt-3">
+            <b>Блюдо:</b> @el.dishes.dishName <br />
+            <b>Цена:</b> @el.dishes.price.ToString("c")
+            
+        </div>
+    }
+
+    
+     <hr />
+     <div class="btn btn-danger" asp-controller="order">
+         Оплатить
+     </div>
+
+
+</div>

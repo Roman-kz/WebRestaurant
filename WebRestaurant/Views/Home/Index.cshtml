@@ -1,0 +1,11 @@
+﻿@model HomeViewModel
+
+<h1>Популярные блюда</h1>
+<div class="row mt-5 mb-2">
+    @{
+        foreach (Dishes Dishes in Model.favdishes)
+        {
+            @Html.Partial("ALLDishes", Dishes)
+        }
+    }
+</div>

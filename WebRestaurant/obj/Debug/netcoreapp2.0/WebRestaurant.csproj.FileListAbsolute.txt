@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\bin\Debug\netcoreapp2.0\WebRestaurant.deps.json
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\bin\Debug\netcoreapp2.0\WebRestaurant.runtimeconfig.json
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\bin\Debug\netcoreapp2.0\WebRestaurant.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\bin\Debug\netcoreapp2.0\WebRestaurant.dll
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\bin\Debug\netcoreapp2.0\WebRestaurant.pdb
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\obj\Debug\netcoreapp2.0\WebRestaurant.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\obj\Debug\netcoreapp2.0\WebRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\obj\Debug\netcoreapp2.0\WebRestaurant.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\obj\Debug\netcoreapp2.0\WebRestaurant.AssemblyInfo.cs
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\obj\Debug\netcoreapp2.0\WebRestaurant.dll
+C:\Users\Asus\source\repos\WebRestaurant\WebRestaurant\obj\Debug\netcoreapp2.0\WebRestaurant.pdb
